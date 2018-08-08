@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/fonts">
+        <file>Cantarell-Regular.otf</file>
+        <file>DejaVuSans.ttf</file>
+        <file>Cantarell-Bold.ttf</file>
+        <file>Cantarell-BoldOblique.ttf</file>
+        <file>Cantarell-Oblique.ttf</file>
+        <file>Cantarell-Regular.ttf</file>
+        <file>monospace.ttf</file>
+    </qresource>
+</RCC>
